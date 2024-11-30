@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de localización</string>
+    <string name="button_text">Haz clic en mí</string>
+    <string name="menu_locales">Localidades</string>
+    <string name="locale_english">Inglés</string>
+    <string name="locale_ukrainian">Ucraniano</string>
+    <string name="locale_spanish">Español</string>
+    <string name="open_editor">Abrir editor</string>
+</resources>

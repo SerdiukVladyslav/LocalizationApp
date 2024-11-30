@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocalizationApp</string>
+    <string name="button_text">Click Me</string>
+    <string name="menu_locales">Locales</string>
+    <string name="locale_english">English</string>
+    <string name="locale_ukrainian">Українська</string>
+    <string name="locale_spanish">Español</string>
+    <string name="open_editor">Open Editor</string>
+</resources>

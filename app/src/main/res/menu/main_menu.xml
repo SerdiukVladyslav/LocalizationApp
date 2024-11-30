@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_locales"
+        android:title="@string/menu_locales"
+        android:menuCategory="container">
+        <menu>
+            <item
+                android:id="@+id/locale_english"
+                android:title="@string/locale_english" />
+            <item
+                android:id="@+id/locale_ukrainian"
+                android:title="@string/locale_ukrainian" />
+            <item
+                android:id="@+id/locale_spanish"
+                android:title="@string/locale_spanish" />
+        </menu>
+    </item>
+</menu>

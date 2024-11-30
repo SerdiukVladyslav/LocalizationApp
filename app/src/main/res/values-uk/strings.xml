@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Додаток Локалізація</string>
+    <string name="button_text">Натисніть мене</string>
+    <string name="menu_locales">Локалізації</string>
+    <string name="locale_english">Англійська</string>
+    <string name="locale_ukrainian">Українська</string>
+    <string name="locale_spanish">Іспанська</string>
+    <string name="open_editor">Відкрити редактор</string>
+</resources>
